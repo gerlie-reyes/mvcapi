@@ -1,0 +1,4 @@
+.env
+.vscode
+/vendor
+app/core/config.php
