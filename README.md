@@ -1,2 +1,2 @@
 # mvcapi
-Practice mvc rest api without framework
+Practice php by creating mvc RESTful api from scratch.
